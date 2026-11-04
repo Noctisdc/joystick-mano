@@ -1,0 +1,5 @@
+0 Izquierda
+1 Derecha
+2 Arriba
+3 Abajo
+4 Nada
